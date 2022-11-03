@@ -7,3 +7,14 @@ A map of all the countries ever to score 'nul points' in the Eurovision Song Con
 ![Nul Points](https://github.com/VictimOfMaths/30DayMapChallenge2022/blob/main/Day1_2022_Points.png)
 Created in R using data from [ESC in context](https://escincontext.com/resources/data/) (https://github.com/VictimOfMaths/30DayMapChallenge2022/blob/main/Day1_2022_Points.R)
 <br><br>
+**Day 2: Lines**
+<br>
+Some stupid experimentation with Ordnance Survey's DTM elevation data and contour data, visualised in Aerialod<br>
+![ContourWeirdness](https://github.com/VictimOfMaths/30DayMapChallenge2022/blob/main/ContourWeirdness.png)
+<br><br>
+**Day 3: Polygons**
+<br>
+An annual update of this map showing which English or Scottish Premier League ground is closest to each point in the UK.<br>
+![Support Your Team](https://github.com/VictimOfMaths/30DayMapChallenge2022/blob/main/Day3_2022_Polygons.png)
+Created in R using data from Wikipedia(https://github.com/VictimOfMaths/30DayMapChallenge2022/blob/main/Day3_2022_Polygons.R)
+<br><br>
