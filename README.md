@@ -18,3 +18,9 @@ An annual update of this map showing which English or Scottish Premier League gr
 ![Support Your Team](https://github.com/VictimOfMaths/30DayMapChallenge2022/blob/main/Day3_2022_Polygons.png)
 Created in R using data from Wikipedia(https://github.com/VictimOfMaths/30DayMapChallenge2022/blob/main/Day3_2022_Polygons.R)
 <br><br>
+**Day 4: Green**
+<br>
+All the forests around Sheffield according to the Forestry Commission.<br>
+![The woods of Sheffield](https://github.com/VictimOfMaths/30DayMapChallenge2022/blob/main/Day4_2022_Green.png)
+Created in R (https://github.com/VictimOfMaths/30DayMapChallenge2022/blob/main/Day4_2022_Green.R)
+<br><br>
