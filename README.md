@@ -24,3 +24,14 @@ All the forests around Sheffield according to the Forestry Commission.<br>
 ![The woods of Sheffield](https://github.com/VictimOfMaths/30DayMapChallenge2022/blob/main/Day4_2022_Green.png)
 Created in R (https://github.com/VictimOfMaths/30DayMapChallenge2022/blob/main/Day4_2022_Green.R)
 <br><br>
+**Day 5: Ukraine**
+<br>
+An exaggerated 3D view of south-western Ukrain, visualised in Aerialod<br>
+![Ukraine](https://github.com/VictimOfMaths/30DayMapChallenge2022/blob/main/ContourWeirdness.png)
+<br><br>
+**Day 6: Network**
+<br>
+All the stops on the Sheffield Supertram network, coloured by line.<br>
+![SUPERTRAM](https://github.com/VictimOfMaths/30DayMapChallenge2022/blob/main/Day5_2022_Network.png)
+Created in R (https://github.com/VictimOfMaths/30DayMapChallenge2022/blob/main/Day5_2022_Network.R)
+<br><br>
