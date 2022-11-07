@@ -35,3 +35,9 @@ All the stops on the Sheffield Supertram network, coloured by line.<br>
 ![SUPERTRAM](https://github.com/VictimOfMaths/30DayMapChallenge2022/blob/main/Day5_2022_Network.png)
 Created in R (https://github.com/VictimOfMaths/30DayMapChallenge2022/blob/main/Day5_2022_Network.R)
 <br><br>
+**Day 7: Raster**
+<br>
+A bivariate map comparing annual sunshine hours with annual rainfall in mm (both binned into tertiles) across the UK.<br>
+![SunVsRain](https://github.com/VictimOfMaths/Maps/blob/master/SunvsRain.png)
+Created in R (https://github.com/VictimOfMaths/Maps/blob/master/SunVsRain.R)
+<br><br>
