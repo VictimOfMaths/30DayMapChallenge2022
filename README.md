@@ -26,7 +26,7 @@ Created in R (https://github.com/VictimOfMaths/30DayMapChallenge2022/blob/main/D
 <br><br>
 **Day 5: Ukraine**
 <br>
-An exaggerated 3D view of south-western Ukrain, visualised in Aerialod<br>
+An exaggerated 3D view of south-western Ukraine, visualised in Aerialod<br>
 ![Ukraine](https://github.com/VictimOfMaths/30DayMapChallenge2022/blob/main/Ukraine.png)
 <br><br>
 **Day 6: Network**
