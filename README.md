@@ -41,3 +41,15 @@ A bivariate map comparing annual sunshine hours with annual rainfall in mm (both
 ![SunVsRain](https://github.com/VictimOfMaths/Maps/blob/master/SunvsRain.png)
 Created in R (https://github.com/VictimOfMaths/Maps/blob/master/SunVsRain.R)
 <br><br>
+**Day 9: A Bad Map**
+<br>
+The worst map I could possible make. Unreasonably proud of the result<br>
+![BadMap](https://github.com/VictimOfMaths/30DayMapChallenge2022/blob/main/Day9_2022_BadMap.png)
+Created in R (https://github.com/VictimOfMaths/30DayMapChallenge2022/blob/main/Day9_2022_BadMap.R)
+<br><br>
+**Day 11: Red**
+<br>
+A visualisation of elevation data from the floodplains of the Yukon in Alaska.<br>
+![AwesomeGeography](https://github.com/VictimOfMaths/30DayMapChallenge2022/blob/main/Day11_2022_Red.png)
+Created in R using DEM data from USGS (https://github.com/VictimOfMaths/30DayMapChallenge2022/blob/main/Day11_2022_Red.R)
+<br><br>
