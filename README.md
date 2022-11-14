@@ -53,3 +53,9 @@ A visualisation of elevation data from the floodplains of the Yukon in Alaska.<b
 ![AwesomeGeography](https://github.com/VictimOfMaths/30DayMapChallenge2022/blob/main/Day11_2022_Red.png)
 Created in R using DEM data from USGS (https://github.com/VictimOfMaths/30DayMapChallenge2022/blob/main/Day11_2022_Red.R)
 <br><br>
+**Day 14: Hexagons**
+<br>
+A hexmap of fishing intensity around the UK coasts from 2020.<br>
+![OuSontLesPoissons](https://github.com/VictimOfMaths/30DayMapChallenge2022/blob/main/Day14_2022_Hexagons.png)
+Created in R using data from Globalfishingwatch.org (https://github.com/VictimOfMaths/30DayMapChallenge2022/blob/main/Day14_2022_Hexagons.R)
+<br><br>
